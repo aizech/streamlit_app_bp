@@ -1,2 +1,3 @@
-streamlit
-streamlit-extras
+streamlit>=1.28.0
+streamlit-extras>=0.3.0
+pathlib>=1.0.1
