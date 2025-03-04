@@ -1,0 +1,51 @@
+/* Hide default Streamlit elements if necessary */
+##MainMenu {visibility: hidden;}
+footer {visibility: hidden;}
+#header {visibility: hidden;}
+
+/* General styling */
+body {
+    line-height: 1.2;
+}
+
+.stApp {
+    #max-width: 100%;
+    #padding: 1rem;
+}
+
+/* Horizontal block styling */
+.stHorizontalBlock {
+    #padding: 0px;
+}
+
+/* Make sure the main content area uses full height */
+.main {
+    padding: 0px;
+}
+
+.st-emotion-cache-t1wise {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+/* Column styling */
+.stColumn {
+    background-color: white;
+    min-height: calc(100vh - 10rem);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start; /* align content top */
+    padding-top: 0.3rem;
+    padding-bottom: 0.3rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
+
+/* hide the uploaded files display */
+.stFileUploaderFile {
+    display: none;
+}
+
+
+
+
