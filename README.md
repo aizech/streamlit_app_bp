@@ -2,6 +2,10 @@
 
 ![Watunga Logo](assets/logo_text.png)
 
+## Public Demo
+
+[Public Demo of this Watunga App](https://watunga001.streamlit.app/)
+
 ## Overview
 
 The Watunga AI Multi-Agent Framework is a comprehensive platform designed to create, assemble, and reuse AI agents and tools. This Streamlit-based application provides a user-friendly interface for interacting with AI agents and visualizing their capabilities.
